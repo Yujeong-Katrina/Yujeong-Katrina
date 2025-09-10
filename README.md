@@ -2,13 +2,8 @@
 
 💻 I'm studying Computer Science Engineering as a Bachelor sutdent at Chungnam National University in South Korea.  
 📚 1 year Exchange student at University of Tübingen in Germany.
-✨ Currently learning and building projects for the Bachelor degree  
+✨ Currently learning and building projects for the Bachelor degree.
 
----
-
-## 🚀 What I Do
-🔬 Research interests: Artificial Intelligence, Machine Learning, Neural Networks, Object Detection  
-🛠️ Projects: Foreign Languages Learning App, Android app to prevent lonely-death  
 
 ---
 
