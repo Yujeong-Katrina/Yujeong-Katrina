@@ -1,7 +1,7 @@
 ## Hi👋, I'm Yujeong Kim
 
 💻 I'm studying Computer Science Engineering as a Bachelor sutdent at Chungnam National University in South Korea.  
-📚 1 year Exchange student at University of Tübingen in Germany.
+📚 1 year Exchange student at University of Tübingen in Germany. 
 ✨ Currently learning and building projects for the Bachelor degree.
 
 
